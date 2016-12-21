@@ -32,9 +32,12 @@ li{
 .circle img {
     border-radius: 50%;
     display: block;
+    border: 1px solid black;
+    display: inline-block;
 }
 
 .maindiv{
+  margin-top:200px;
   width: 600px;
   height: 300px;
   margin: auto;
@@ -49,8 +52,7 @@ li{
 body{
   background-image: url("../images/outerspace_landscape.jpeg");
   background-repeat: no-repeat;
-  min-width: 100%;
-  min-height: 100%;
+  background-size: cover;
 }
 
 .spacecat{
