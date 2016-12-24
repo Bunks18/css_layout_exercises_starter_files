@@ -1,6 +1,6 @@
 
 .navbar{
-  background-color:##EEEEEE;
+  background-color:#EEEEEE;
 }
 
 .navli{
@@ -25,7 +25,7 @@ nav {
 
 main{
   position: relative;
-  margin: auto;
+  margin-left: 100px;
 }
 
 .searchli{
@@ -37,11 +37,38 @@ main{
 }
 
 .search{
+  border-radius: 5px;
   display:inline-block;
   border: 1px solid grey;
-
+  margin:0px;
+  margin-right: -6px;
+  padding: 5px 5px 5px 5px;
 }
+
+
 
 .searchlist ul {
   list-style-type: none;
+}
+
+#pic{
+  margin-right:10px;
+  width:10%;
+  border: 1px solid grey:
+}
+
+img{
+  border: 1px solid grey;
+  margin-top: 10px;
+}
+
+.form{
+ margin-left:50px;
+  display:inline-block;
+}
+
+.job{
+  color: blue;
+  font-weight:100;
+  font-weight:bold;
 }
