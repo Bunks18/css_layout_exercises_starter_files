@@ -1,0 +1,58 @@
+
+
+.mainbox{
+  width:400px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+fieldset{
+  text-align: center;
+}
+
+
+/*html, body{
+  background-color: blue;
+}*/
+
+.test{
+  background-color: #6799FF;
+  width:400px;
+  height: 300px;
+  margin-left:auto;
+  margin-right: auto;
+  /*padding-left: 20px;
+  padding-right: 20px;*/
+}
+
+.mainbox{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.btn{
+  width: 320px;
+  background-color: green !important;
+  color: white;
+}
+
+
+.center{
+  text-align: center;
+  color: grey;
+}
+
+.logo{
+  height: 35px;
+}
+
+
+.bottom, .logodiv{
+  text-align: center;
+}
+
+.btn:hover{
+  opacity: 0.5;
+}
